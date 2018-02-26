@@ -6,6 +6,8 @@
 ` 朋友要把課程退選讓給你，卻被別人搶走嗎？ `  
 **```現在有了搶課神器，只要給定相關課程條件就可以雙手一攤，讓CourseTaker幫你完成費時費力的搶課操作了```**  
 
+![][takingcourse]
+
 <p align=center>
 <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
@@ -56,3 +58,6 @@ const condition = {
 4. 🔁 將複製好的程式碼，貼到console區塊並按下Enter送出，即開始自動化搶課作業
 
 ![console](/img/console.png)
+
+--------------------------------
+[takingcourse]:/img/takingcourse.gif
